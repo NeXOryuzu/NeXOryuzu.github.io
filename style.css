@@ -1,0 +1,53 @@
+/*body*/
+body{
+width: auto;
+height: auto;
+}
+/*end body*/
+
+/*navbar*/
+
+
+
+/*nav bar end*/
+
+/*jumbotron css*/
+
+.jbtr {
+padding-top : 2rem;
+background-color: #d6e5fc;
+position:relative;
+margin-top: 55px;
+
+}
+
+.me {
+    position: relative;
+    display: block;
+    margin: auto;
+    width: 115px;
+    height: 115px;
+    border-radius: 50%;
+}
+
+.nama {
+    position: relative;
+    text-align: center;
+    
+    
+}
+
+.jb{
+    position: relative;
+   text-align: center;
+   text-size-adjust: 1px;
+}
+
+
+/*end jumbotron css */
+
+/*about css*/
+.col{
+    text-align: center;
+}
+/*end about css*/
